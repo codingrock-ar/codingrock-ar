@@ -8,9 +8,9 @@
 
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
-  <a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://linkedin.com/in/arielrocca"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="https://github.com/codingrock-ar"><img src="https://img.shields.io/badge/GitHub-My_Profile-black?style=for-the-badge&logo=github"></a>
-  <a href="mailto:"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+  <a href="mailto:arielerocca@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
 ## 🚀 About Me 
@@ -18,7 +18,7 @@ I'm a Web Developer, Data Science student at Teclab, and educator passionate abo
 
 My focus ranges from building functional web interfaces and REST APIs to analyzing data for predictive modeling. When I'm not coding, I teach Informática Aplicada and Inglés Técnico to radiology students at the Instituto Madre Deus.
 
-When I'm not working with data, I enjoy training for 21km half-marathons, commuting on my bicycle, and firing up the grill for a good asado americano. I love the "aha!" moment when data reveals something new and useful.
+When I'm not working with data, I enjoy commuting on my bicycle, and firing up the grill for a good asado. I love the "aha!" moment when data reveals something new and useful.
 
 ### [🏆 Check Out My Full Portfolio Website](https://codingrock-ar.github.io)
       
@@ -30,8 +30,8 @@ When I'm not working with data, I enjoy training for 21km half-marathons, commut
 
 ## 🌱 Currently Learning 
 
-- Advanced data encoding techniques and Machine Learning methodologies.
-- Cloud foundations and advanced data visualization with Tableau.
+- Advanced data Machine Learning methodologies.
+- Cloud foundations and advanced data visualization.
 
 ## 🛠️ Technical Skillset
 
@@ -39,7 +39,7 @@ When I'm not working with data, I enjoy training for 21km half-marathons, commut
 <p>
   <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
   <img src="https://img.shields.io/badge/MySQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL Skill Badge">
-  <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
+  <img src="https://img.shields.io/badge/Tableau-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="Sheets Skill Badge">
 </p>
 
 #### Programming & Web Development
@@ -47,7 +47,6 @@ When I'm not working with data, I enjoy training for 21km half-marathons, commut
   <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
   <img src="https://img.shields.io/badge/PHP-Advanced-777BB4?style=flat&logo=php&logoColor=white" alt="PHP Skill Badge">
   <img src="https://img.shields.io/badge/Vue.js%202-Intermediate-4FC08D?style=flat&logo=vuedotjs&logoColor=white" alt="Vue Skill Badge">
-  <img src="https://img.shields.io/badge/ASPX-Intermediate-512BD4?style=flat&logo=dotnet&logoColor=white" alt="ASPX Skill Badge">
 </p>
 
 #### Business Intelligence & Analytics
